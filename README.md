@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Sven Collins - [GitHub Profile](https://github.com/Svencol/)
 
 ---
-⭐ Star this repository if you find it helpful!
+
