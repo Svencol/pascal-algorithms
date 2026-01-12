@@ -1,0 +1,43 @@
+# Compiled Object files
+*.o
+*.ppu
+*.a
+*.or
+
+# Compiled executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# FPC generated files
+*.compiled
+*.bak
+
+# Lazarus/IDE files
+*.lps
+*.lpi
+*.lpr
+backup/
+lib/
+
+# FPC compiled units
+*.res
+*.rsj
+
+# Compiled binaries
+AlgorithmsDemo
+TestRunner
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE directories
+.idea/
+.vscode/
